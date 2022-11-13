@@ -161,7 +161,7 @@ const HomePage: NextPage = () => {
           </Card>
         </Grid>
         <Box>
-          <chakra.h2 color="tomato">This is chakra-u</chakra.h2>
+          <chakra.h2 color="tomato">This is chakra-ui</chakra.h2>
         </Box>
       </Main>
       <Footer>
